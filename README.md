@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Suyash0712
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development and ux/ui
+- 👋 Hi, I’m @Suyash
+- 👀 I’m interested in web development and UI/UX
+- 🌱 I’m currently learning web development and ui/ux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suyashtambe219@gmail.com
 
